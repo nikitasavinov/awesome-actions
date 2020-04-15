@@ -225,6 +225,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [Run checkstyle, with reviewdog output on the PR](https://github.com/nikitasavinov/checkstyle-action)
+
 
 #### Testing
 
@@ -267,6 +269,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Linter for markdown (with presets)](https://github.com/avto-dev/markdown-lint)
 - [Stylelint problem matcher to create annotations](https://github.com/xt0rted/stylelint-problem-matcher)
 - [Run sqlcheck on the PR to identifies anti-patterns in SQL queries](https://github.com/yokawasa/action-sqlcheck)
+- [Run checkstyle, with reviewdog output on the PR](https://github.com/nikitasavinov/checkstyle-action)
 
 #### Security
 
